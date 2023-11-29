@@ -30,7 +30,7 @@
 }
 
 .category {
-   color: crimson;
+   color: #5e4fff;
    font-weight: 500;
 }
 
@@ -41,7 +41,7 @@
 }
 
 .link {
-   border-bottom: 1px solid crimson;
+   border-bottom: 1px solid #5e4fff;
    width: max-content;
    padding: 2px 0;
 }
